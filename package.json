@@ -1,0 +1,22 @@
+{
+  "name": "react-redux-base",
+  "version": "0.0.1",
+  "description": "Base code for React-Redux projects",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Poelman/react-redux-base.git"
+  },
+  "author": "Martin Poelman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Martin-Poelman/react-redux-base/issues"
+  },
+  "homepage": "https://github.com/Martin-Poelman/react-redux-base#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
